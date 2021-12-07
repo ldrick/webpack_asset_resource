@@ -1,0 +1,10 @@
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
+
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+
+// just something, to show this is not fontawesome alone...
+.button {
+  width: 23em;
+}
